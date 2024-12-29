@@ -1,0 +1,5 @@
+# Ignorar diretórios de compilação do .NET
+bin/
+obj/
+GerenciadorDeUsuarios.csproj
+GerenciadorDeUsuarios.sln
