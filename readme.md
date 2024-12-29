@@ -15,7 +15,7 @@ C#: Linguagem de programação principal.
 Como Usar
 1. Clonar o Repositório
     Primeiramente, faça o clone deste repositório para a sua máquina local:
-        git clone https://github.com/seuusuario/gerenciador-de-usuarios.git
+        git clone https://github.com/EmyBatista21/GerenciadorDeUsuarios.git
 
 2. Compilar e Executar o Programa
     Este projeto pode ser compilado e executado utilizando o Visual Studio ou a linha de comando do .NET. Para compilar e executar via linha de comando:
